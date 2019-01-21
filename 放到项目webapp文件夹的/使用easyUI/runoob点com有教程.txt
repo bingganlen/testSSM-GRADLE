@@ -1,0 +1,8 @@
+www.runoob.com 找到bookstrap 左边导航选择后  直接复制他的代码到前端页面
+
+
+http://www.jeasyui.net  与 bookstrap一样  在webapp文件夹里面  新建easyui的文件夹，把里面的内容考过去
+
+1.  head 里考入 《link rel="stylesheet" type="text/css"》 的导入
+2.  找到左边导航选择后  直接复制他的代码到前端页面
+3.  点击部署 就是点击运行的那个绿色三角形  选择第一个  不是restart
